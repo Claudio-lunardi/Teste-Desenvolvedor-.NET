@@ -1,15 +1,29 @@
+using EvolutionSoft.Infra.Entity;
+using EvolutionSoft.Negocio.ContatoNegocio;
+using EvolutionSoft.Negocio.PessoaNegocio;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+
+
+string connection = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<EntityContext>(options => options.UseSqlServer(connection));
+
+builder.Services.AddScoped<IPessoaNegocio, PessoaNegocio>();
+builder.Services.AddScoped<IContatoNegocio, ContatoNegocio>();
+
+
+
+
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
