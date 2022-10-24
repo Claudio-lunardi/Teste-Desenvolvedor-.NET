@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EvolutionSoft.Negocio.PessoaNegocio
+namespace EvolutionSoft.Negocio.ContatoNegocio
 {
     public interface IContatoNegocio
     {

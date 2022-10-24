@@ -27,8 +27,8 @@ namespace EvolutionSoft.Negocio.ContatoNegocio
 
         public async Task ExcluirContato(int id)
         {
-            var pessoaId = await _entityContext.Contatos.SingleAsync(x => x.Id.Equals(id));
-            _entityContext.Contatos.Remove(pessoaId);
+            var ContatoId = await _entityContext.Contatos.SingleAsync(x => x.Id.Equals(id));
+            _entityContext.Contatos.Remove(ContatoId);
             await _entityContext.SaveChangesAsync();
         }
 

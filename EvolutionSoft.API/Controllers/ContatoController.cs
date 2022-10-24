@@ -1,6 +1,5 @@
 ﻿using EvolutionSoft.Models.Models;
-using EvolutionSoft.Negocio.PessoaNegocio;
-using Microsoft.AspNetCore.Http;
+using EvolutionSoft.Negocio.ContatoNegocio;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EvolutionSoft.API.Controllers
