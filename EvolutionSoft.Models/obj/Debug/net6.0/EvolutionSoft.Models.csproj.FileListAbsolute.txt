@@ -1,0 +1,12 @@
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\bin\Debug\net6.0\EvolutionSoft.Models.deps.json
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\bin\Debug\net6.0\EvolutionSoft.Models.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\bin\Debug\net6.0\EvolutionSoft.Models.pdb
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\obj\Debug\net6.0\EvolutionSoft.Models.csproj.AssemblyReference.cache
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\obj\Debug\net6.0\EvolutionSoft.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\obj\Debug\net6.0\EvolutionSoft.Models.AssemblyInfoInputs.cache
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\obj\Debug\net6.0\EvolutionSoft.Models.AssemblyInfo.cs
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\obj\Debug\net6.0\EvolutionSoft.Models.csproj.CoreCompileInputs.cache
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\obj\Debug\net6.0\EvolutionSoft.Models.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\obj\Debug\net6.0\refint\EvolutionSoft.Models.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\obj\Debug\net6.0\EvolutionSoft.Models.pdb
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Models\obj\Debug\net6.0\ref\EvolutionSoft.Models.dll

@@ -1,0 +1,17 @@
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\bin\Debug\net6.0\EvolutionSoft.Infra.deps.json
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\bin\Debug\net6.0\EvolutionSoft.Infra.runtimeconfig.json
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\bin\Debug\net6.0\EvolutionSoft.Infra.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\bin\Debug\net6.0\EvolutionSoft.Infra.pdb
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\bin\Debug\net6.0\EvolutionSoft.Models.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\bin\Debug\net6.0\EvolutionSoft.Models.pdb
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\EvolutionSoft.Infra.csproj.AssemblyReference.cache
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\EvolutionSoft.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\EvolutionSoft.Infra.AssemblyInfoInputs.cache
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\EvolutionSoft.Infra.AssemblyInfo.cs
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\EvolutionSoft.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\EvolutionSoft.Infra.csproj.CopyComplete
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\EvolutionSoft.Infra.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\refint\EvolutionSoft.Infra.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\EvolutionSoft.Infra.pdb
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\EvolutionSoft.Infra.genruntimeconfig.cache
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Infra\obj\Debug\net6.0\ref\EvolutionSoft.Infra.dll

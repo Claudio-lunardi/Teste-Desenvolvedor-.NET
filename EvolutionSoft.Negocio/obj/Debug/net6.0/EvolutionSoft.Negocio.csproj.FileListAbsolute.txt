@@ -1,0 +1,17 @@
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\bin\Debug\net6.0\EvolutionSoft.Negocio.deps.json
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\bin\Debug\net6.0\EvolutionSoft.Negocio.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\bin\Debug\net6.0\EvolutionSoft.Negocio.pdb
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\bin\Debug\net6.0\EvolutionSoft.Infra.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\bin\Debug\net6.0\EvolutionSoft.Models.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\bin\Debug\net6.0\EvolutionSoft.Infra.pdb
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\bin\Debug\net6.0\EvolutionSoft.Models.pdb
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\obj\Debug\net6.0\EvolutionSoft.Negocio.csproj.AssemblyReference.cache
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\obj\Debug\net6.0\EvolutionSoft.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\obj\Debug\net6.0\EvolutionSoft.Negocio.AssemblyInfoInputs.cache
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\obj\Debug\net6.0\EvolutionSoft.Negocio.AssemblyInfo.cs
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\obj\Debug\net6.0\EvolutionSoft.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\obj\Debug\net6.0\EvolutionSoft.Negocio.csproj.CopyComplete
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\obj\Debug\net6.0\EvolutionSoft.Negocio.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\obj\Debug\net6.0\refint\EvolutionSoft.Negocio.dll
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\obj\Debug\net6.0\EvolutionSoft.Negocio.pdb
+C:\Users\Claud\Source\Repos\Claudio-lunardi\Teste-Desenvolvedor-.NET\EvolutionSoft.Negocio\obj\Debug\net6.0\ref\EvolutionSoft.Negocio.dll

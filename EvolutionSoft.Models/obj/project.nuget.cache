@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vh4xUIHJmfPJAS2LgLme9CmCMNkNtU1mowF4OqAxAnpF8Xy4tI7IDc/yu60DKju7PLrFMJMPgCk7DlAymTlAag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Claud\\Source\\Repos\\Claudio-lunardi\\Teste-Desenvolvedor-.NET\\EvolutionSoft.Models\\EvolutionSoft.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Claud\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
