@@ -12,14 +12,16 @@ namespace EvolutionSoft.Models.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Required]
         public int Id { get; set; }
 
+        [Required]
         [StringLength(14, MinimumLength = 14, ErrorMessage = "Este campo deve ter 14 caracteres")]
         public string CPF { get; set; }
-
+        [Required]
         [StringLength(150, MinimumLength = 5, ErrorMessage = "Este campo deve ter de 5 a 150 caractéres")]
         public string Nome { get; set; }
-
+        [Required]
         [StringLength(100, ErrorMessage = "Este campo deve ter no máximo 100 caracteres.")]
         public string Email { get; set; }
 
@@ -39,6 +41,7 @@ namespace EvolutionSoft.Models.Models
         public string? UF { get; set; }
 
         public List<Contato>? Contatos { get; set; }
-   
+
+
     }
 }

@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EvolutionSoft.Infra.Migrations
 {
     [DbContext(typeof(EntityContext))]
-    [Migration("20221024182943_CriacaoBanco")]
+    [Migration("20221027185619_CriacaoBanco")]
     partial class CriacaoBanco
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
